@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HotelManagmentSystem.CheckInForm1">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAAAYAQSEAABKGFACAAATCMgCIgCAoEUBAQwAIgKA=</HashCode>
+      <FileName>CheckInForm1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelManagmentSystem.CheckInListForm">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAAABACBACAAABCAAiAAAAAAAAAQwAAAAA=</HashCode>
+      <FileName>CheckInListForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelManagmentSystem.CheckOutForm">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RCAAAgYGASEEABCGFACAAATCMgCAgAAoEEBAQwAIgKA=</HashCode>
+      <FileName>CheckOutForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelManagmentSystem.CheckOutListForm">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABACBACAAABCAAiAAAgAAAAAQwAAAAA=</HashCode>
+      <FileName>CheckOutListForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelManagmentSystem.GuestForm">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABCQAIAggChABBMEJACUqECTAAKKAAAqAABAQwQDwAA=</HashCode>
+      <FileName>GuestForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelManagmentSystem.GuestListForm">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAACAAABACAAAD6AwCAAAAAAAAAQ4AAAAA=</HashCode>
+      <FileName>GuestListForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelManagmentSystem.HomeForm">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACAQSgAQBACAEARSAACCAAAAEBQPSQLAAAI=</HashCode>
+      <FileName>HomeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelManagmentSystem.LoginForms">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAiIAASAAAAAAAAKASABSIgAAAAAAEAAUQIDAAAA=</HashCode>
+      <FileName>LoginForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelManagmentSystem.RoomListForm">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAABQCAAADCAwCAAAAAAAAAQ4AAAAA=</HashCode>
+      <FileName>RoomListForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelManagmentSystem.SplashScreenForm">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAIAQAQCAAAACABECAAATCAAAAAAAAEAQAQgBAAAA=</HashCode>
+      <FileName>SplashScreenForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelManagmentSystem.guestDataSetTableAdapters.Discount_TableTableAdapter">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
